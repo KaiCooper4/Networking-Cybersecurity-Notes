@@ -1,0 +1,1 @@
+proxy server - A server that acts as a user's IP in order to make the user's real IP/server.

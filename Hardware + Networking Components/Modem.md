@@ -1,0 +1,1 @@
+Provides Internet & WAN connectivity via PSTN/POTS

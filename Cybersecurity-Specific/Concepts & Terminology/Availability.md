@@ -1,0 +1,1 @@
+Systems, apps, and data are available or accessible by authorized users whenever it is needed; redundancy and fault tolerance

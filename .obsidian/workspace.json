@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "d307c1250444cef6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1030bc984bb725ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffdae205d0b1737f",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d76df3db57e7f6b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "45d63ef41ae222d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f07df79c261f2b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d9f6d4738b357ce0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "05477351f4e626ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "62d6b0d422cea1f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b51734d4af19536d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25778fc5fa7491c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "cc83d4d1a22390ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a8ac580b776a2a75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d5968e525dca42c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3f07df79c261f2b4",
+  "lastOpenFiles": [
+    "New Text Document.txt",
+    "sync",
+    "Untitled.base",
+    "Cybersecurity-Specific/Concepts & Terminology/Public Key Infrastructure.md",
+    "Cybersecurity-Specific/Security+/Section 1.md",
+    "Cybersecurity-Specific/Concepts & Terminology/Certificate Authority.md",
+    "Cybersecurity-Specific/Concepts & Terminology/Non-repudiation.md",
+    "Cybersecurity-Specific/Concepts & Terminology/Controls/Security Controls.md",
+    "Cybersecurity-Specific/Concepts & Terminology/Pyramid of Pain.md",
+    "Pasted image 20250915165632.png",
+    "Cybersecurity-Specific/Concepts & Terminology/Security Frameworks.md",
+    "Cybersecurity-Specific/Concepts & Terminology/Encryption.md",
+    "Networking Concepts/Ports.md",
+    "Networking Concepts/Protocols.md",
+    "Networking Concepts/OSI Model/Layer 7 - Application.md",
+    "Networking Concepts/MAC Address.md",
+    "Networking Concepts/SSH.md",
+    "Networking Concepts/Active Directory Home Lab Setup.md",
+    "Networking Concepts/LAN.md",
+    "HTTPS.md",
+    "Networking Concepts/OSI Model/Layer 3 - Network.md",
+    "Networking Concepts/OSI Model/Layer 2 - Data Link.md",
+    "Networking Concepts/OSI Model/Layer 4 - Transport.md",
+    "Networking Concepts/DNS.md",
+    "Networking Concepts/IP.md",
+    "Pasted image 20250915163313.png",
+    "IPv4_Packet-en.svg",
+    "Networking Concepts/OSI Model/Layer 1 - Physical.md",
+    "Networking Concepts/OSI Model/Layer 5 - Session.md",
+    "Networking Concepts/OSI Model/Layer 6 - Presentation.md",
+    "Networking Concepts/OSI Model",
+    "Networking Concepts/OSI Model.md",
+    "Cybersecurity-Specific/Concepts & Terminology/NIST",
+    "Cybersecurity-Specific/Concepts & Terminology/CISSP Security Domains",
+    "Hardware + Networking Components/Linux",
+    "Cybersecurity-Specific/Concepts & Terminology/Controls",
+    "Cybersecurity-Specific/Concepts & Terminology",
+    "Cybersecurity-Specific/Security+",
+    "Cybersecurity-Specific"
+  ]
+}

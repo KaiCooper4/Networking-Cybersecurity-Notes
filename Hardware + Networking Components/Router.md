@@ -1,0 +1,1 @@
+Connects to the Internet (traditionally through a modem); the default gateway for the devices on the network.

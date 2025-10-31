@@ -1,0 +1,1 @@
+Defining security goals & objectives, risk mitigation, compliance, business continuity & legal regulations;
