@@ -6,5 +6,6 @@ Control Types: preventative, detective, corrective, deterrent, compensating
 See: [[Security Controls]]
 Data Loss Prevention: host-based vs. network
 [[Non-repudiation]]
-Change Management -
+[[Change Management]]
 [[Public Key Infrastructure]]
+

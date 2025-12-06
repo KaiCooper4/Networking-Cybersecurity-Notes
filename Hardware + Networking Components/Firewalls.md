@@ -1,1 +1,1 @@
-Allows what can enter and exit the network; 
+Allows what can enter and exit the network; port filtering, stateful/stateless, NGFW

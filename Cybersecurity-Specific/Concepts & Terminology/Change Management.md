@@ -1,0 +1,1 @@
+Upgrade software, patch apps, firewall config, switch ports; have clear policies; be aware of the stakeholders; impact analysis; sandbox testing environment; have a backout plan; maintenance windows are important

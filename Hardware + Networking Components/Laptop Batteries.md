@@ -1,0 +1,1 @@
+Lithium-ion & lithium-ion polymer - no "memory effect"

@@ -1,1 +1,1 @@
-Systems, apps, and data are available or accessible by authorized users whenever it is needed; redundancy and fault tolerance
+Systems, apps, and data are available or accessible by authorized users whenever it is needed; redundancy and fault tolerance; assets can fall into the following: Restricted -> Confidential -> Internal-only -> Public
