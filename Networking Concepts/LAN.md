@@ -1,6 +1,12 @@
 Local access network - Devices on this network connect to each other through one or more switches;
 
+MAN - metro
+
+WAN - point-to-point serial, MPLS
+
 PAN - Bluetooth
+
+SAN - block-level access, requires a lot of bandwidth
 
 **Topologies**
 Hybrid/Ring Topology - No bottlenecks; one packet at a time; flaw: one connection breaks, entire network fails.

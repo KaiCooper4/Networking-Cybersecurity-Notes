@@ -1,0 +1,1 @@
+physics of the network (signaling, cabling, connectors); ethernet/coax

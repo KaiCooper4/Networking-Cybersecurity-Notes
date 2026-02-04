@@ -1,0 +1,1 @@
+short-distance networking, wireless authentication, built into your phone

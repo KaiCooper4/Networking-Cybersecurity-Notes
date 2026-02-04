@@ -1,0 +1,1 @@
+high speed communication over short distances, PAN (See [[LAN]]), uses the 2.4 GHz range

@@ -1,1 +1,1 @@
-Connects to the Internet (traditionally through a modem); the default gateway for the devices on the network.
+Connects to the Internet (traditionally through a modem); the default gateway for the devices on the network; routes traffic between IP subnets; "layer 3 switches"

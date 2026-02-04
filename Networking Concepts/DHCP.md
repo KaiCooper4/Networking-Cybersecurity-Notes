@@ -1,0 +1,1 @@
+Automated config of IP address, subnet mask, and other options; dynamic/pooled (IP addresses are assigned in real-time from a pool, given a lease); addresses are assigned by MAC address in the DHCP server; DORA (Discover, Offer, Request, Acknowledgment); scopes -> pools

@@ -1,1 +1,1 @@
-IPv4/v6 (see [[IP]])
+IPv4/v6 (see [[IP (Internet Protocol)]])
