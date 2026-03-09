@@ -1,1 +1,1 @@
-Provides Internet & WAN connectivity via PSTN/POTS; cable modem - broadband, DOCSIS (Data Over Cable Service Interface Specification); ADSL (Asymmetric Digital Subscriber Line) modem - download speed is faster than upload speed; 
+Provides Internet & WAN connectivity via PSTN/POTS; cable modem - broadband, DOCSIS (Data Over Cable Service Interface Specification); ADSL (Asymmetric Digital Subscriber Line) modem - download speed is faster than upload speed; typically provided by ISP for Internet connectivity for router

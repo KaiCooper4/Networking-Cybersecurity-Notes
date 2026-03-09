@@ -4,6 +4,7 @@ IP address - The address of a device on a computer network;
 Original IP addresses; Classes: A (0-127), B (128-191), C (192-223); Private Addresses (RFC 1918): 10.0.0.0 -10.255.255.255 (A), 172.16.0.0 - 171.31.255.255 (B), 192.168.0.0.0 - 192.168.255.255 (C)
 
 IPv4 Packet
+header - 20 bytes
 ![[IPv4_Packet-en.svg]]
 
 **IPv6**

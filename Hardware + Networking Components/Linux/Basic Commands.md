@@ -1,6 +1,8 @@
 touch - create file
 ls
 cd
+chown NEWOWNER
+chgrp NEWGROUP
 find . -name "*.txt"
 mkdir/rmdir 
 cp SOURCE DEST

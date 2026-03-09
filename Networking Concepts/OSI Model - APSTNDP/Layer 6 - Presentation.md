@@ -1,1 +1,1 @@
-[[Encryption]] (SSL)
+[[Algorithms]] (SSL)

@@ -1,5 +1,5 @@
 Protect systems from unauthorized use and prevent disclosure.
 
-[[Encryption]]
+[[Algorithms]]
 
 [[Access Controls]]

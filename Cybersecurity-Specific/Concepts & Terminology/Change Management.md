@@ -1,1 +1,3 @@
-Upgrade software, patch apps, firewall config, switch ports; have clear policies; be aware of the stakeholders; impact analysis; sandbox testing environment; have a backout plan; maintenance windows are important
+Upgrade software, patch apps, firewall config, switch ports; have clear policies; be aware of the stakeholders; impact analysis; sandbox testing environment; have a backout plan; maintenance windows are important; 
+
+**Technical Change Management** include allow/deny lists, preventing downtime, scheduled restarts for new configs, handling legacy apps, various dependencies, version control, and documentation.

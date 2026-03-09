@@ -6,5 +6,6 @@ SDRAM - Synchronous DRAM, synchronized to the system bus, 168 pins
 DDR - Double Data Rate, most common is DDR SDRAM, 184 pins
 DDR 2 - 240 pin
 DDR 3 - higher performance
+DDR 4 - even higher performance, lower operating voltage, increased speed/bandwidth
 
 Error Correction Code (ECC) - Detects errors and corrects on the fly
