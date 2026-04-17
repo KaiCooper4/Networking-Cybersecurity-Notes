@@ -1,1 +1,1 @@
-Connection between two devices is established
+Connection between two devices is established as sessions; can be used to resume interrupted communication; handled by the web browser

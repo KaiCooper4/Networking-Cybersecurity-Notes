@@ -1,1 +1,1 @@
-[[Algorithms]] (SSL)
+Translating data between human-readable formats and computer-readable; performs compression; handled by the web browser or other end-user apps; [[Algorithms]] (SSL)

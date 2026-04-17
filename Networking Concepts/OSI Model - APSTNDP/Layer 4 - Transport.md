@@ -1,1 +1,1 @@
-TCP/UDP (See: [[TCP+UDP]])
+TCP/UDP (See: [[TCP+UDP]]); handles flow control; performs error checking via a checksum

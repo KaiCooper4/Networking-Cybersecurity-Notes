@@ -1,1 +1,1 @@
-Frames from layer 2, IP addresses from data packets, NAT
+Frames from layer 2, IP addresses from data packets, NAT, data routing through the network
